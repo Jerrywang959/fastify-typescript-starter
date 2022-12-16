@@ -13,6 +13,7 @@ $ yarn install
 ## Usage
 
 ### Development
+
 ```bash
 # Required: typescript watch compilation
 $ yarn watch
