@@ -5,9 +5,9 @@
 ## Installation
 
 ```bash
-$ git clone https://github.com/Matschik/fastify-typescript-starter.git
+$ git clone https://github.com/noyyyy/fastify-typescript-starter
 $ cd fastify-typescript-starter
-$ yarn install
+$ pnpm i
 ```
 
 ## Usage
@@ -16,21 +16,21 @@ $ yarn install
 
 ```bash
 # Required: typescript watch compilation
-$ yarn watch
+$ pnpm watch
 
 # Required: development server with hot reload (nodemon)
-$ yarn dev
+$ pnpm dev
 
 # Format with prettier
-$ yarn format
+$ pnpm lint
 ```
 
 ### Production
 
 ```bash
 # build for production
-$ yarn build
+$ pnpm build
 
 # start production app
-$ yarn start
+$ pnpm start
 ```
