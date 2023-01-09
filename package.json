@@ -18,7 +18,7 @@
     "@fastify/env": "^4.1.0",
     "@fastify/swagger": "^7.6.0",
     "@fastify/type-provider-typebox": "^2.3.0",
-    "@sinclair/typebox": "^0.24.42",
+    "@sinclair/typebox": "^0.25.17",
     "@typechain/ethers-v5": "^10.1.0",
     "asn1js": "^3.0.5",
     "aws-sdk": "^2.1219.0",
